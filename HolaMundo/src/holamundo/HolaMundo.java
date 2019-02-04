@@ -9,15 +9,13 @@ package holamundo;
  *
  * @author root-admin
  */
-public class Holamundo {
+public class HolaMundo {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Primera modificación: Hello World!");
-        System.out.println("Segunda modificación con error en el push de jessica/Aarón: Hello World!");
-        
+        // TODO code application logic here
     }
     
 }
