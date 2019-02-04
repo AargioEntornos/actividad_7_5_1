@@ -19,6 +19,7 @@ public class Holamundo {
         System.out.println("Segunda modificación: Hello World!");
         
         System.out.println("Rama issue54 modificación 1");
+        System.out.println("Rama issue54 modificación 2");
     }
     
 }
