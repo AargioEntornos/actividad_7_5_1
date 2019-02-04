@@ -16,7 +16,7 @@ public class Holamundo {
      */
     public static void main(String[] args) {
         System.out.println("Primera modificación: Hello World!");
-        System.out.println("Segunda modificación: Hello World!");
+        System.out.println("Segunda modificación con error en el push de jessica/Aarón: Hello World!");
         
         System.out.println("Rama issue54 modificación 1");
         System.out.println("Rama issue54 modificación 2");
